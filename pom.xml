@@ -40,12 +40,5 @@
             </plugin>
         </plugins>
     </build>
-    <distributionManagement>
-    <repository>
-        <id>nexus-snapshots</id>
-        <url>http://13.115.56.102:8081/repository/java-package/</url>
-    </repository>
-</distributionManagement>
-
 </project>
 
