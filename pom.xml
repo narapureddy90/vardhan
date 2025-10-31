@@ -44,7 +44,7 @@
     <snapshotRepository>
         <id>nexus-snapshots</id>
         <name>Nexus Snapshot Repository</name>
-        <url>https://github.com/narapureddy90/srikanth.git/url>
+        <url>http://13.115.56.102:8081/repository/java-package/</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
